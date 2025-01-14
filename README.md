@@ -1,8 +1,9 @@
 # MarkMyWords
 Accurate grading at your finger tips. Helps rating content, essay or copy.
 This is Wordpress plugin which helps judges to evaluate for any write-up content on blogs posts, articles etc.[^1].
-For testing purpose I have created dummy posts by using Dummy Content Generator plugin.
-**Roles of Admin**[^2]
+For testing purpose I have created dummy posts by using Dummy Content Generator plugin.[^2]
+
+**Roles of Admin**[^3]
 Admin can add the post and assign to other judges.[^4]
 Admin can create Judge's usename and password.[^5]
 Admin can check the score of all the articles given by particlar Judge.[^6].
